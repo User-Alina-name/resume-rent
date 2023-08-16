@@ -33,7 +33,7 @@ body {
   margin-top: 40px !important;
   margin: 140px;
   text-align: center;
-  background-color: rgba(140, 33, 255, 0.198);
+  background-color: rgba(72, 255, 252, 0.198);
 }
 
 h1 {
@@ -45,9 +45,9 @@ h1 {
 }
 
 h2 {
-  color: rgb(80, 11, 154);
+  color: rgba(72, 255, 252);
   margin-top: 30px;
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.609);
+  text-shadow: 0 0 3px rgba(65, 65, 65, 0.609);
 }
 
 h3,
