@@ -32,22 +32,25 @@
 body {
   margin-top: 40px !important;
   margin: 140px;
+  font-family: Helvetica, Sans-Serif;
+
   text-align: center;
   background-color: rgba(72, 255, 252, 0.198);
 }
 
 h1 {
   font-size: 56px;
-  font-family: "Dancing Script", cursive;
-  color: rgb(80, 11, 154);
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.609);
+  font-family: Helvetica, Sans-Serif;
+  color: rgb(17, 122, 120);
+  text-shadow: 0 0 3px rgba(255, 210, 132, 0.794);
   margin-top: 0;
+  padding: 20px 0 20px 0;
 }
 
 h2 {
-  color: rgba(72, 255, 252);
+  color: rgb(17, 122, 120);
+  font-family: Helvetica, Sans-Serif;
   margin-top: 30px;
-  text-shadow: 0 0 3px rgba(65, 65, 65, 0.609);
 }
 
 h3,
